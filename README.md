@@ -9,3 +9,13 @@ A beginner-friendly AI app that recommends movies based on your mood using Pytho
 1. Install Python & Streamlit
 2. Clone or download the project
 3. Run:
+
+
+## 😄 Example Moods
+
+- happy
+- sad
+- excited
+- romantic
+
+Built with ❤️ using Streamlit.
